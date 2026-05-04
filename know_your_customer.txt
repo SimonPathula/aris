@@ -1,0 +1,17 @@
+Types of consultants:
+
+Strategy
+Financial Advisory
+IT 
+Management
+Operations
+Human resource
+
+CREDIBLE
+Reuters, Bloomberg, FT, WSJ, HBR, Economist, McKinsey Insights, BCG Henderson, Deloitte Insights, Bain,Reserve Bank of India, World Bank, IMF, OECD, UN, US Bureau of Labor Stats, arxiv (econ/finance), SSRN, NBER, Google Scholar, Statista (public), Gartner summaries, PwC reports, International Monetary Fund
+---
+UNCERTAIN
+Medium (business tag), Substack newsletters, Forbes contributor (not editorial), Public long-form posts, Boutique firm blogs, thought leadership pages, Good content, but tertiary source — uncertain by design
+---
+UNRELIABLE
+BusinessInsider listicles, Entrepreneur.com thin content, Generic "top 10 strategies" sites, PRNewswire, BusinessWire (no editorial filter) 

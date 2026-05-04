@@ -6,5 +6,10 @@ dist/
 wheels/
 *.egg-info
 
+project_flow.md
+project_structure.md
+thoughts.txt
+
 # Virtual environments
 .venv
+.env
