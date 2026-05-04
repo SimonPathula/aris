@@ -1,0 +1,17 @@
+features
+
+domain_authority_score (manual mapping)
+is_known_publisher (binary)
+has_date
+text_length
+avg_sentence_length
+grammar_score (optional)
+readability (Flesch score)
+number_of_numbers (data-backed?)
+number_of_citations (links)
+presence_of_clickbait_words
+clickbait_score
+paragraph_count
+title_length
+content_html_ratio
+embedding → similarity to trusted corpus (optional later)
